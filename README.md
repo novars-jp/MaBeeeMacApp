@@ -40,15 +40,15 @@ MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするア�
 | API (Path) | 概要 | リンク |
 |:--|:--|:--|
 | / | MaBeeeMacAppの状態のサマリを返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/summary) |
-| /state | Bluetoothの状態を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-state) |
-| /scan | スキャンの状態を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-scan) |
-| /scan/start | スキャンを開始します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-scan-start) |
-| /scan/stop | スキャンを停止します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-scan-stop) |
-| /devices | デバイスの一覧を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-devices) |
-| /devices/:id | :idで指定したデバイスの情報を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-devices-:id) |
-| /devices/:id/connect | :idで指定したデバイスに接続します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-devices-:id-connect) |
-| /devices/:id/disconnect | :idで指定したデバイスを切断します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-devices-:id-disconnect) |
-| /devices/:id/set | :idで指定したデバイスに値を設定します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/-devices-:id-set) |
+| /state | Bluetoothの状態を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/state) |
+| /scan | スキャンの状態を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/scan) |
+| /scan/start | スキャンを開始します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/scan-start) |
+| /scan/stop | スキャンを停止します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/scan-stop) |
+| /devices | デバイスの一覧を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices) |
+| /devices/:id | :idで指定したデバイスの情報を返します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id) |
+| /devices/:id/connect | :idで指定したデバイスに接続します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-connect) |
+| /devices/:id/disconnect | :idで指定したデバイスを切断します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-disconnect) |
+| /devices/:id/set | :idで指定したデバイスに値を設定します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-set) |
 
 
 ## ライブラリ
