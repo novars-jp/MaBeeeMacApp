@@ -2,6 +2,8 @@
 
 MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするアプリです。UIを用意していないので開発者向けという感じです。[ツアー](https://github.com/novars-jp/MaBeeeMacApp/wiki/%E3%83%84%E3%82%A2%E3%83%BC)で雰囲気がわかります。
 
+- [MaBeeeについてはこちらからどうぞ](http://mabeee.mobi/)
+
 
 ## 注意
 
