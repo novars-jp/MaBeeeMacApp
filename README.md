@@ -1,6 +1,6 @@
 # MaBeeeMacApp
 
-MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするアプリです。
+MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするアプリです。UIを用意していないので開発者向けという感じです。[ツアー](https://github.com/novars-jp/MaBeeeMacApp/wiki/%E3%83%84%E3%82%A2%E3%83%BC)で雰囲気がわかります。
 
 
 ## 注意
@@ -49,6 +49,10 @@ MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするア�
 | /devices/:id/connect | :idで指定したデバイスに接続します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-connect) |
 | /devices/:id/disconnect | :idで指定したデバイスを切断します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-disconnect) |
 | /devices/:id/set | :idで指定したデバイスに値を設定します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-set) |
+
+## ツアー
+
+APIを一通り使ってみる[ツアー](https://github.com/novars-jp/MaBeeeMacApp/wiki/%E3%83%84%E3%82%A2%E3%83%BC)を準備しました。
 
 
 ## ライブラリ
