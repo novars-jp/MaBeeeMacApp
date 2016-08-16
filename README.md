@@ -51,6 +51,7 @@ MaBeeeMacAppはMaBeeeをMacからコントロールできるようにするア�
 | /devices/:id/connect | :idで指定したデバイスに接続します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-connect) |
 | /devices/:id/disconnect | :idで指定したデバイスを切断します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-disconnect) |
 | /devices/:id/set | :idで指定したデバイスに値を設定します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-set) |
+| /devices/:id/update | :idで指示したデバイスのプロパティの更新を指示します | [詳細](https://github.com/novars-jp/MaBeeeMacApp/wiki/devices-:id-update) |
 
 ## ツアー
 
